@@ -38,3 +38,11 @@ WorkDuty is inspired by PagerDuty's approach to organizing and managing tasks, w
 5. **Track and Reassign**:
    - Track completed or overdue tasks.
    - Reassign tasks automatically if not completed, or manually by another user.
+
+
+### Tech Stack:
+- Backend: Node.js + Express
+- Database: MongoDB
+- Notifications: Twilio
+- Frontend: React 
+- Deployment: Heroku
