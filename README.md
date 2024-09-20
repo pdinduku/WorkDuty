@@ -16,3 +16,25 @@ WorkDuty is inspired by PagerDuty's approach to organizing and managing tasks, w
 - **Task Notifications**: 
   - Receive reminders via WhatsApp the day before the assigned task.
   - Get a follow-up notification on the day of the task.
+
+### Workflow
+
+1. **Set Up Tasks**:
+   - Users can create recurring household tasks (e.g., dishes, cooking, cleaning).
+   - Tasks can be categorized and customized based on frequency (daily, weekly, etc.).
+
+2. **Assign Tasks**:
+   - Tasks can be assigned using the Round Robin method or manually assigned to specific people for specific days.
+   - Users have the option to override task assignments when necessary.
+
+3. **Task Management**:
+   - Users can cancel or modify assignments as needed.
+   - Round Robin assignments can be reset or restarted from a specific day.
+
+4. **Notifications**:
+   - A WhatsApp notification will be sent to housemates the day before a task is due.
+   - A reminder will be sent again on the day of the task to ensure it’s completed.
+
+5. **Track and Reassign**:
+   - Track completed or overdue tasks.
+   - Reassign tasks automatically if not completed, or manually by another user.
